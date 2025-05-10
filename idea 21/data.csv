@@ -1,0 +1,6 @@
+age,fever,cough,headache,disease
+25,1,1,0,Flu
+30,1,0,1,Malaria
+40,0,1,1,Cold
+35,1,1,1,COVID-19
+22,0,0,0,Healthy
