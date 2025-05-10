@@ -1,0 +1,9 @@
+st.title("Transforming Healthcare with
+AI-Powered Disease Prediction")
+st.subheader("Predict illnesses based on
+patient symptoms using intelligent
+machine learning")
+st.write("This tool helps clinicians and
+patients identify likely diseases based
+on age and common symptoms such as
+fever, cough, and headache.")
